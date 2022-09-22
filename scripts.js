@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("Hello, this is Lab01 CT300");
+    alert("B1910013 - B1910315 - B1910005 - B1910010");
 }
